@@ -50,46 +50,31 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 
 # 🎖 Honors and Awards
-- *2024.06* Beijing Outstanding Graduate (Top 1%)
-- *2023.10* China National Scholarship (Top 1%)
-- *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
-- *2022.10* Postgraduate First-Class Scholarship (Top 10%)
+- *2022.08* Robocom Robot Developer Competition, Silver Medal
+- *2021-06* Bronze Medal in National College Student Group Programming Competition
+- *2020.10* Gold Award in Liaoning Provincial Programming Competition (Top 5%)
+- *2020.9* Northeastern University First Class Scholarship (top 10%)
+- *2020.3* Outstanding students of Northeastern University (Top 10%)
 
 # 📖 Educations
-- *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
+- *2023.09 - 2026.07*, Master of The Visual & Data Intelligence (VDI) Center, ShangHaiTech University, ShangHai, China
+  - Supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html)
+- *2019.09 - 2023.07*, Bachelor of Computer Science and Technology Major, Northeastern University, shenyang, China
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
 
 # 💻 Internships
 - 🎓During My Master's Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/corpo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ByteDance</div><img src='../images/robotics_x.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DouBao - Large Language Model (LLM) Product](https://www.doubao.com/chat/)
+[Tencent - Robotics X]([https://www.doubao.com/chat/](https://roboticsx.tencent.com/))
 
-**Department · China Content Quality and DataRocks · Mathematical Logic | Sequence · Data Science**
-- Advised by Mr. Zhaojian Li
-- Jun. 2023 - Jan. 2024
+**Department · Embodied AI Department · Perception and Action Collaboration Group**
+- Advised by Mr. Yu zheng
+- Sep. 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Workstation of Mao Ming, Academician, CAS</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Jiangsu Shengyu Intelligent Equipment Technology Co., Ltd. ](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750)
-
-**Sequence · Research and Development Engineer**
-- Advised by Dr. Jingjing Fan
-- Jul. 2022 - May. 2023
-</div>
-</div>
 
 ------
 
