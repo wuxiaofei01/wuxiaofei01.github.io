@@ -30,10 +30,19 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-
+- *2024.11*: &nbsp;New Paper **FastGrasp: Efficient Grasp Synthesis with Diffusion**  Published in the International Conference on 3D Vision (3DV-2025)
 - *2024.01*: &nbsp;New Paper **Realdex: Towards human-like grasping for robotic dexterous hand**  Published in the International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2025</div><img src='../images/fastgrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastGrasp: Efficient Grasp Synthesis with Diffusion](https://github.com/wuxiaofei01)
+
+**xiaofei wu**, Tao Liu, caoji li, Yuexin Ma, Yujiao Shi, Xuming He
+
+[**Project**](https://github.com/wuxiaofei01)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='../images/realdex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
