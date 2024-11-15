@@ -30,8 +30,8 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2024.11*: &nbsp;New Paper **FastGrasp: Efficient Grasp Synthesis with Diffusion**  Published in the International Conference on 3D Vision (3DV-2025)
-- *2024.01*: &nbsp;New Paper **Realdex: Towards human-like grasping for robotic dexterous hand**  Published in the International Joint Conference on Artificial Intelligence (IJCAI-2024)
+- *2024.11*: &nbsp;one Paper accepted by the International Conference on 3D Vision (3DV-2025)
+- *2024.01*: &nbsp;one papers accepted by International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
 # 📝 Publications 
 
