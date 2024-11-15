@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaofei Wu"
-description              : "Master student at The University of ShangHaiTech"
+description              : #"Master student at The University of ShangHaiTech"
 repository               : "wuxiaofei01/wuxiaofei01.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaofei Wu"
   avatar           : "images/profile.png"
-  bio              : "University of ShangHaiTech"
+  bio              : "ShangHaiTech University"
   location         : "ShangHai, China"
   employer         :
   pubmed           : 
