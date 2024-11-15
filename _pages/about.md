@@ -34,7 +34,6 @@ You can find my CV here: [wuxiaofei](../assets/cv.pdf). If you are interested in
 - *2024.01*: &nbsp;New Paper **Realdex: Towards human-like grasping for robotic dexterous hand**  Published in the International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
 # 📝 Publications 
-- 🎓During My Master's Research Program
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/realdex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +62,6 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 
 # 💻 Internships
-- 🎓During My Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tencent</div><img src='../images/robotics_x.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
