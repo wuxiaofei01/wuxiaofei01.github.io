@@ -77,7 +77,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tencent</div><img src='../images/robotics_x.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Tencent - Robotics X]([https://www.doubao.com/chat/](https://roboticsx.tencent.com/))
+[Tencent - Robotics X](https://roboticsx.tencent.com/)
 
 **Department · Embodied AI Department · Perception and Action Collaboration Group**
 - Advised by Mr. Yu zheng
