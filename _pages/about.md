@@ -42,7 +42,7 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 
 Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , Sören Schwertfeger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma,
 
-[**Project**]([https://ieeexplore.ieee.org/document/10217826](https://4dvlab.github.io/RealDex_page/))
+[**Project**](https://4dvlab.github.io/RealDex_page/)
 </div>
 </div>
 
