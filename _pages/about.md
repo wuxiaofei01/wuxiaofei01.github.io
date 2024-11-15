@@ -24,7 +24,7 @@ Since September 2024, I have been working as an intern at [Tencent - Robotics X]
 
 My research interests include Deep Learning, Generative Models, and Embodied AI.
 
-You can find my CV here: [wuxiaofei](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
+You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
 
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
