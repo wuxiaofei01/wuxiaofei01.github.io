@@ -31,7 +31,7 @@ You can find my CV here: [wuxiaofei](../assets/cv.pdf). If you are interested in
 
 # 🔥 News
 
-- *2024.01*: &nbsp;New Paper **Realdex: Towards human-like grasping for robotic dexterous hand**  Published in the International Joint Conference on Artificial Intelligence (IJCAI-2024)
+- *2024.01*: &nbsp;New Paper [Realdex: Towards human-like grasping for robotic dexterous hand](https://arxiv.org/abs/2402.13853)  Published in the International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
