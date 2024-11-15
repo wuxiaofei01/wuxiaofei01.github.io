@@ -31,7 +31,7 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 
 # 🔥 News
 - *2024.11*: &nbsp;one Paper accepted by the International Conference on 3D Vision (3DV-2025)
-- *2024.01*: &nbsp;one papers accepted by International Joint Conference on Artificial Intelligence (IJCAI-2024)
+- *2024.01*: &nbsp;one paper accepted by International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
 # 📝 Publications 
 
