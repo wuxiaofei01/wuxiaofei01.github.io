@@ -35,7 +35,7 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/realdex.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='../images/realdex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Realdex: Towards human-like grasping for robotic dexterous hand](https://arxiv.org/abs/2402.13853)
