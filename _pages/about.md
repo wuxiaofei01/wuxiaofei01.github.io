@@ -29,7 +29,7 @@ From 2024.9, I worked at [Tencent - Robotics X](https://roboticsx.tencent.com/) 
 
 My research interest includes Deep Learning, Generation and embodied AI. 
 
-You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
+You can find my CV here: [wuxiaofei](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
 
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
