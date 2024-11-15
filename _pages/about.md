@@ -18,16 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a master student at [The University of Utah](https://www.shanghaitech.edu.cn/). Fortunately, I will be supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) of Plus Lab from The Visual & Data Intelligence (VDI) Center.
+I am currently a master's student at [The University of ShangHaiTech](https://www.shanghaitech.edu.cn/). Fortunately to be supervised  by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab, part of The Visual & Data Intelligence (VDI) Center.
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
+Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors under the guidance of Mr. Lipeng Chen.
 
-From 2024.9, I worked at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, undertaking robot grasps from human prior under the guidance of Mr. Lipeng Chen.
-
-
-My research interest includes Deep Learning, Generation and embodied AI. 
+My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 You can find my CV here: [wuxiaofei](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
 
