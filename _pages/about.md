@@ -38,7 +38,7 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2025</div><img src='../images/fastgrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastGrasp: Efficient Grasp Synthesis with Diffusion](https://github.com/wuxiaofei01)
+[FastGrasp: Efficient Grasp Synthesis with Diffusion](https://github.com/wuxiaofei01/FastGrasp)
 
 **xiaofei wu**, Tao Liu, caoji li, Yuexin Ma, Yujiao Shi, Xuming He
 
