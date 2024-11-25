@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am currently a master's student at [The University of ShangHaiTech](https://www.shanghaitech.edu.cn/). Fortunately to be supervised  by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab, part of The Visual & Data Intelligence (VDI) Center.
 
-Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors under the guidance of Mr. Lipeng Chen.
+Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors.
 
 My research interests include Deep Learning, Generative Models, and Embodied AI.
 
