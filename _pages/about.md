@@ -39,6 +39,7 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 <div class='paper-box-text' markdown="1">
 
 [FastGrasp: Efficient Grasp Synthesis with Diffusion](https://arxiv.org/abs/2411.14786)
+
 **xiaofei wu**, Tao Liu, caoji li, Yuexin Ma, Yujiao Shi, Xuming He
 
 [**Project**](https://github.com/wuxiaofei01/FastGrasp)
