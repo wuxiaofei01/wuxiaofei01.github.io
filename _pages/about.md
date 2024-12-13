@@ -61,6 +61,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 
 # 🎖 Honors and Awards
+- *2024.12* Outstanding students of ShanghaiTech University (Top 10%)
 - *2022.08* Robocom Robot Developer Competition, Silver Medal
 - *2021-06* Bronze Medal in National College Student Group Programming Competition
 - *2020.10* Gold Award in Liaoning Provincial Programming Competition (Top 5%)
