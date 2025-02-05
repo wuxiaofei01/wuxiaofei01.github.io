@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am currently a master's student at [The University of ShangHaiTech](https://www.shanghaitech.edu.cn/). Fortunately to be supervised  by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab, part of The Visual & Data Intelligence (VDI) Center.
 
-Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors.
+Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors. At AGI-bot, I work on world models and video generation models. I believe that a model that understands physical constraints and world rules is an important cornerstone on the road to AGI.
 
 My research interests include Deep Learning, Generative Models, and Embodied AI.
 
@@ -82,8 +82,18 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 **Department · Embodied AI Department · Perception and Action Collaboration Group**
 - Advised by Mr. Yu zheng
-- Sep. 2024
+- Sep. 2024.8 - 2024.12
 </div>
+
+<div class='paper-box-text' markdown="1">
+
+[AGI-Bot]([https://roboticsx.tencent.com](https://www.zhiyuan-robot.com/)/)
+
+**Department · World Model/ Video Generation**
+- Advised by Mr. Lipeng Chen
+- Sep. 2024.12 - 2024.3
+</div>
+
 </div>
 
 
