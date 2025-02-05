@@ -95,4 +95,27 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Sep. 2024.12 - 2025.3
 </div>
 
+<div class='paper-box' style="width: 300px; border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div class='paper-box-image' style="width: 100%; height: 200px; display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 8px; background-color: #f9f9f9;">
+        <div style="position: relative; width: 100%; height: 100%;">
+            <div class="badge" style="position: absolute; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; font-weight: bold; top: 10px; left: 10px; z-index: 1;">Tencent</div>
+            <img src='../images/robotics_x.png' alt="sym" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+    </div>
+    <div class='paper-box-text' style="text-align: center; margin-top: 10px;">
+        <p>Description for Robotics_X</p>
+    </div>
+</div>
+
+<div class='paper-box' style="width: 300px; border: 1px solid #ccc; padding: 10px; margin: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div class='paper-box-image' style="width: 100%; height: 200px; display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 8px; background-color: #f9f9f9;">
+        <div style="position: relative; width: 100%; height: 100%;">
+            <div class="badge" style="position: absolute; background-color: #007bff; color: white; padding: 5px 10px; border-radius: 4px; font-size: 12px; font-weight: bold; top: 10px; left: 10px; z-index: 1;">Agi-Bot</div>
+            <img src='../images/agi_bot.png' alt="sym" style="width: 100%; height: 100%; object-fit: cover;">
+        </div>
+    </div>
+    <div class='paper-box-text' style="text-align: center; margin-top: 10px;">
+        <p>Description for Agi-Bot</p>
+    </div>
+</div>
 
