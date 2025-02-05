@@ -91,7 +91,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 **Department · World Model/ Video Generation**
 - Advised by Mr. Lipeng Chen
-- Sep. 2024.12 - 2024.3
+- Sep. 2024.12 - 2025.3
 </div>
 
 </div>
