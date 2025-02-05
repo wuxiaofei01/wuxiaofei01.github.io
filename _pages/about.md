@@ -95,11 +95,4 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Sep. 2024.12 - 2025.3
 </div>
 
-</div>
 
-------
-
-<p align="center">
-  <i>I know I am not the perfect one, yet aspire to chase the world and achieve greatness@Ming Zhan</i>
-</p>
-</div>
