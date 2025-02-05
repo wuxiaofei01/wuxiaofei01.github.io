@@ -85,7 +85,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Sep. 2024.8 - 2024.12
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tencent</div><img src='../images/agi_bot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agi-Bot</div><img src='../images/agi_bot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AGI-Bot]([https://roboticsx.tencent.com](https://www.zhiyuan-robot.com/)/)
@@ -95,7 +95,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Sep. 2024.12 - 2025.3
 </div>
 
-
+</div>
 
 ------
 
