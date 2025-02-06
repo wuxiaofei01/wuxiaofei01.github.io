@@ -85,14 +85,20 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Sep. 2024.8 - 2024.12
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agi-Bot</div><img src='../images/agi_bot.png' alt="sym" width="150%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Agi-Bot</div>
+            <img src='../images/agi_bot.png' alt="sym" style="max-width: 100%; height: auto;">
+        </div>
+    </div>
+    <div class='paper-box-text' style="margin-top: 10px;" markdown="1">
+        [AGI-Bot](https://www.zhiyuan-robot.com/)
 
-[AGI-Bot]([https://roboticsx.tencent.com](https://www.zhiyuan-robot.com/)/)
-
-**Department · World Model/ Video Generation**
-- Advised by Mr. Lipeng Chen
-- Sep. 2024.12 - 2025.3
+        **Department · World Model/ Video Generation**
+        - Advised by Mr. Lipeng Chen
+        - Sep. 2024.12 - 2025.3
+    </div>
 </div>
 
 
