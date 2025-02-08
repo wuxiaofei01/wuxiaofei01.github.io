@@ -92,11 +92,13 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
             <img src='../images/agi_bot.png' alt="sym" style="max-width: 100%; height: auto;">
         </div>
     </div>
-    <div class='paper-box-text' style="margin-top: 10px;" markdown="1">
-        [AGI-Bot](https://www.zhiyuan-robot.com/)
-        **Department · World Model/ Video Generation**
-        - Advised by Mr. Lipeng Chen
-        - Sep. 2024.12 - 2025.3
+  
+<div class='paper-box-text' style="margin-top: 10px;" markdown="1">
+[AGI-Bot](https://www.zhiyuan-robot.com/)
+  
+**Department · World Model/ Video Generation**
+- Advised by Mr. Lipeng Chen
+- Sep. 2024.12 - 2025.3
 
 
 
