@@ -97,7 +97,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 [AGI-Bot](https://www.zhiyuan-robot.com/)
   
 **Department · World Model/ Video Generation**
-- Advised by Mr. Lipeng Chen
+- Advised by Mr. Liliang Chen
 - Sep. 2024.12 - 2025.3
 
 
