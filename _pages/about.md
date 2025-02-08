@@ -83,7 +83,6 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 **Department · Embodied AI Department · Perception and Action Collaboration Group**
 - Advised by Mr. Yu zheng
 - Sep. 2024.8 - 2024.12
-</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -94,7 +93,6 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
     </div>
     <div class='paper-box-text' style="margin-top: 10px;" markdown="1">
         [AGI-Bot](https://www.zhiyuan-robot.com/)
-
         **Department · World Model/ Video Generation**
         - Advised by Mr. Lipeng Chen
         - Sep. 2024.12 - 2025.3
