@@ -84,6 +84,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 - Advised by Mr. Yu zheng
 - Sep. 2024.8 - 2024.12
 
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
@@ -96,8 +97,6 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
         **Department · World Model/ Video Generation**
         - Advised by Mr. Lipeng Chen
         - Sep. 2024.12 - 2025.3
-    </div>
-</div>
 
 
 
