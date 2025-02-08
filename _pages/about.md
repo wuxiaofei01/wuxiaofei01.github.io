@@ -75,31 +75,43 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tencent</div><img src='../images/robotics_x.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
 
-[Tencent - Robotics X](https://roboticsx.tencent.com/)
-
-**Department · Embodied AI Department · Perception and Action Collaboration Group**
-- Advised by Mr. Yu zheng
-- Sep. 2024.8 - 2024.12
-
-<div></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Agi-Bot</div>
-            <img src='../images/agi_bot.png' alt="sym" style="max-width: 100%; height: auto;">
+    <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; overflow: hidden;">
+        <div class='paper-box-image' style="text-align: center; padding: 10px;">
+            <div>
+                <div class="badge" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-bottom: 10px;">Tencent</div>
+                <img src='../images/robotics_x.png' alt="sym" style="max-width: 100%; height: auto;">
+            </div>
+        </div>
+        <div class='paper-box-text' style="padding: 15px;">
+            <a href="https://roboticsx.tencent.com/" style="text-decoration: none; color: #007bff;">Tencent - Robotics X</a>
+            <p><strong>Department · Embodied AI Department · Perception and Action Collaboration Group</strong></p>
+            <ul>
+                <li>Advised by Mr. Yu Zheng</li>
+                <li>Sep. 2024.8 - 2024.12</li>
+            </ul>
         </div>
     </div>
-  
-<div class='paper-box-text' style="margin-top: 10px;" markdown="1">
-[AGI-Bot](https://www.zhiyuan-robot.com/)
-  
-**Department · World Model/ Video Generation**
-- Advised by Mr. Liliang Chen
-- Sep. 2024.12 - 2025.3
+
+    <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; overflow: hidden;">
+        <div class='paper-box-image' style="text-align: center; padding: 10px;">
+            <div>
+                <div class="badge" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-bottom: 10px;">Agi-Bot</div>
+                <img src='../images/agi_bot.png' alt="sym" style="max-width: 100%; height: auto;">
+            </div>
+        </div>
+        <div class='paper-box-text' style="padding: 15px;">
+            <a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff;">AGI-Bot</a>
+            <p><strong>Department · World Model/ Video Generation</strong></p>
+            <ul>
+                <li>Advised by Mr. Liliang Chen</li>
+                <li>Sep. 2024.12 - 2025.3</li>
+            </ul>
+        </div>
+    </div>
+
+</div>
 
 
 
