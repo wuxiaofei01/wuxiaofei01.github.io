@@ -35,12 +35,13 @@ You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are intereste
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/fpvg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/pfvg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pack and Force Your Memory: Long-form and Consistent Video Generation](https://arxiv.org/abs/2510.01784)
 
 **xiaofei wu**, Guozhen Zhang, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Xuming He
+
 [**Project**](https://wuxiaofei01.github.io/PFVG/)
 
 </div>
