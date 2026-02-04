@@ -20,11 +20,8 @@ redirect_from:
 # Welcome! 
 I am currently a master's student at [The University of ShangHaiTech](https://www.shanghaitech.edu.cn/). Fortunately to be supervised  by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab, part of The Visual & Data Intelligence (VDI) Center.
 
-Since September 2024, I have been working as an intern at [Tencent - Robotics X](https://roboticsx.tencent.com/) as a daily intern in Shenzhen, focusing on robotic grasping based on human priors. At [AGI-bot](https://www.agibot.com/), I work on world models and video generation models. I believe that a model that understands physical constraints and world rules is an important cornerstone on the road to AGI.
 
 My research interests include Deep Learning, Generative Models, and Embodied AI.
-
-You can find my CV here: [wuxiaofei](../assets/resume.pdf). If you are interested in my work, please feel free to drop me an [email](wuxiaofei01@qq.com).
 
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
