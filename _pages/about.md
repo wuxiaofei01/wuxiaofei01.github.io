@@ -44,7 +44,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2025</div><img src='../images/AffordGrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/AffordGrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AffordGrasp: Cross-Modal Diffusion forAffordance-Aware Grasp Synthesis]()
