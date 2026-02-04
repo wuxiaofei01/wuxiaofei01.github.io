@@ -72,7 +72,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 [Realdex: Towards human-like grasping for robotic dexterous hand](https://arxiv.org/abs/2402.13853)
 
-Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , Sören Schwertfeger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma,
+Yumeng Liu*, Yaxun Yang*, Youzhuo Wang*, Xiaofei Wu , Jiamin Wang , Yichen Yao , Sören Schwertfeger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma,
 
 [**Project**](https://4dvlab.github.io/RealDex_page/)
 </div>
