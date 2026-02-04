@@ -97,22 +97,23 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
 # 💻 Internships
 <div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
 
-    <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; overflow: hidden;">
-        <div class='paper-box-image' style="text-align: center; padding: 10px;">
-            <div>
-                <div class="badge" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-bottom: 10px;">Tencent</div>
-                <img src='../images/hunyuan.png' alt="sym" style="max-width: 100%; height: auto;">
-            </div>
-        </div>
-        <div class='paper-box-text' style="padding: 15px;">
-            <a href="[https://roboticsx.tencent.com](https://hunyuan.tencent.com/)/" style="text-decoration: none; color: #007bff;">Tencent - HunYuan</a>
-            <p><strong>Department · HY · Video Generation</strong></p>
-            <ul>
-                <li>Advised by Mr. Yuan Zhou</li>
-                <li>Sep. 2025.3 - 2025.10</li>
-            </ul>
-        </div>
-    </div>
+  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; overflow: hidden;">
+      <div class='paper-box-image' style="text-align: center; padding: 10px; width: 100%; box-sizing: border-box;">
+          <div>
+              <div class="badge" style="background-color: #007bff; color: white; padding: 5px 10px; border-radius: 5px; display: inline-block; margin-bottom: 10px;">Tencent</div>
+              <!-- 核心优化：图片自适应样式 -->
+              <img src='../images/hunyuan.png' alt="HunYuan" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto;">
+          </div>
+      </div>
+      <div class='paper-box-text' style="padding: 15px; box-sizing: border-box;">
+          <a href="https://hunyuan.tencent.com/" style="text-decoration: none; color: #007bff;">Tencent - HunYuan</a>
+          <p><strong>Department · HY · Video Generation</strong></p>
+          <ul style="margin: 5px 0; padding-left: 20px;">
+              <li>Advised by Mr. Yuan Zhou</li>
+              <li>Sep. 2025 - 2025.10</li>
+          </ul>
+      </div>
+  </div>
     
 
     <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 20px; overflow: hidden;">
