@@ -111,7 +111,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
           <p style="margin: 0 0 10px; color: #333; font-size: 15px;"><strong>Department · HY · Video Generation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
               <li style="margin-bottom: 4px;">Advised by Mr. Yuan Zhou</li>
-              <li>Sep. 2025 - Oct. 2025</li>
+              <li>2025.4 - 2025.10</li>
           </ul>
       </div>
   </div>
@@ -129,7 +129,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
           <p style="margin: 0 0 10px; color: #333; font-size: 15px;"><strong>Department · World Model/ Video Generation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
               <li style="margin-bottom: 4px;">Advised by Mr. Liliang Chen</li>
-              <li>Dec. 2024 - Mar. 2025</li>
+              <li>2024.12 - 2025.3</li>
           </ul>
       </div>
   </div>
@@ -147,7 +147,7 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
           <p style="margin: 0 0 10px; color: #333; font-size: 15px;"><strong>Department · Embodied AI · Perception and Action Collaboration Group</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
               <li style="margin-bottom: 4px;">Advised by Mr. Yu Zheng</li>
-              <li>Aug. 2024 - Dec. 2024</li>
+              <li>2024.09 - 2024.12</li>
           </ul>
       </div>
   </div>
