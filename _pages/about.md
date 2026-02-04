@@ -108,11 +108,11 @@ Yumeng Liu, Yaxun Yang, Youzhuo Wang , Xiaofei Wu , Jiamin Wang , Yichen Yao , S
             </div>
         </div>
         <div class='paper-box-text' style="padding: 15px;">
-            <a href="[https://roboticsx.tencent.com](https://hunyuan.tencent.com/)/" style="text-decoration: none; color: #007bff;">Tencent - Robotics X</a>
+            <a href="[https://roboticsx.tencent.com](https://hunyuan.tencent.com/)/" style="text-decoration: none; color: #007bff;">Tencent - HunYuan</a>
             <p><strong>Department · HY · Video Generation</strong></p>
             <ul>
-                <li>Advised by Mr. Yu Zheng</li>
-                <li>Sep. 2024.8 - 2024.12</li>
+                <li>Advised by Mr. Yuan Zhou</li>
+                <li>Sep. 2025.3 - 2025.10</li>
             </ul>
         </div>
     </div>
