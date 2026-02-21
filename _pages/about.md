@@ -27,6 +27,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
+- *2026.2*: &nbsp;one Paper accepted by CVPR 
 - *2024.11*: &nbsp;one Paper accepted by the International Conference on 3D Vision (3DV-2025)
 - *2024.01*: &nbsp;one paper accepted by International Joint Conference on Artificial Intelligence (IJCAI-2024)
 
@@ -44,7 +45,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/AffordGrasp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/AffordGrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AffordGrasp: Cross-Modal Diffusion forAffordance-Aware Grasp Synthesis]()
@@ -72,7 +73,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 [Realdex: Towards human-like grasping for robotic dexterous hand](https://arxiv.org/abs/2402.13853)
 
-Yumeng Liu*, Yaxun Yang*, Youzhuo Wang*, Xiaofei Wu , Jiamin Wang , Yichen Yao , Sören Schwertfeger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma,
+Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Yao , Sören Schwertfeger, Sibei Yang, Wenping Wang, Jingyi Yu, Xuming He, Yuexin Ma,
 
 [**Project**](https://4dvlab.github.io/RealDex_page/)
 </div>
