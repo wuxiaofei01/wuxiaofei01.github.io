@@ -38,7 +38,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 [Pack and Force Your Memory: Long-form and Consistent Video Generation](https://arxiv.org/abs/2510.01784)
 
-**xiaofei wu**, Guozhen Zhang, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Xuming He
+**Xiaofei wu**, Guozhen Zhang, Zhiyong Xu, Yuan Zhou, Qinglin Lu, Xuming He
 
 [**Project**](https://wuxiaofei01.github.io/PFVG/)
 
@@ -50,7 +50,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 [AffordGrasp: Cross-Modal Diffusion forAffordance-Aware Grasp Synthesis]()
 
-**xiaofei wu**, Yi Zhang, Yumeng Liu, Yuexin Ma, Yujiao Shi, Xuming He
+**Xiaofei wu**, Yi Zhang, Yumeng Liu, Yuexin Ma, Yujiao Shi, Xuming He
 
 </div>
 </div>
@@ -61,7 +61,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 [FastGrasp: Efficient Grasp Synthesis with Diffusion](https://arxiv.org/abs/2411.14786)
 
-**xiaofei wu**, Tao Liu, caoji li, Yuexin Ma, Yujiao Shi, Xuming He
+**Xiaofei wu**, Tao Liu, caoji li, Yuexin Ma, Yujiao Shi, Xuming He
 
 [**Project**](https://github.com/wuxiaofei01/FastGrasp)
 </div>
