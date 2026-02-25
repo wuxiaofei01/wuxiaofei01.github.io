@@ -52,6 +52,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 
 **Xiaofei wu**, Yi Zhang, Yumeng Liu, Yuexin Ma, Yujiao Shi, Xuming He
 
+[**Project**](https://wuxiaofei01.github.io/AffordGrasp_page)
 </div>
 </div>
 
