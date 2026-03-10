@@ -48,7 +48,7 @@ My research interests include Deep Learning, Generative Models, and Embodied AI.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='../images/AffordGrasp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AffordGrasp: Cross-Modal Diffusion forAffordance-Aware Grasp Synthesis]()
+[AffordGrasp: Cross-Modal Diffusion forAffordance-Aware Grasp Synthesis](https://arxiv.org/abs/2603.08021)
 
 **Xiaofei wu**, Yi Zhang, Yumeng Liu, Yuexin Ma, Yujiao Shi, Xuming He
 
