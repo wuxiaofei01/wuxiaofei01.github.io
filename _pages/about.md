@@ -137,11 +137,11 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 12px; overflow: hidden; transition: box-shadow 0.3s ease;">
       <div class='paper-box-image' style="text-align: center; padding: 8px; width: 100%; box-sizing: border-box;">
           <div>
-            <a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 8px;">AGI-Bot</a>
               <img src='../images/agi_bot.png' alt="AGI-Bot" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 12px 12px; box-sizing: border-box; line-height: 1.5;">
+            <a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 8px;">AGI-Bot</a>
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · World Model/ Video Generation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
               <li style="margin-bottom: 4px;">Advised by Mr. Liliang Chen</li>
