@@ -101,9 +101,9 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 字节跳动 TikTok 卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; box-sizing: border-box;">
-          <div>
-              <img src='../images/Tiktok.png' alt="ByteDance TikTok" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
+      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src='../images/Tiktok.png' alt="ByteDance TikTok" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
@@ -118,9 +118,9 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 腾讯混元卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; box-sizing: border-box;">
-          <div>
-              <img src='../images/hunyuan.png' alt="HunYuan" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
+      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src='../images/hunyuan.png' alt="HunYuan" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
@@ -135,9 +135,9 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- AGI-Bot卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; box-sizing: border-box;">
-          <div>
-              <img src='../images/agi_bot.png' alt="AGI-Bot" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
+      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src='../images/agi_bot.png' alt="AGI-Bot" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
@@ -152,9 +152,9 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 腾讯Robotics X卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; box-sizing: border-box;">
-          <div>
-              <img src='../images/robotics_x.png' alt="Tencent Robotics X" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
+      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
+          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+              <img src='../images/robotics_x.png' alt="Tencent Robotics X" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
