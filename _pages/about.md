@@ -97,74 +97,137 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
 
 # 💻 Internships
-<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 4px; box-sizing: border-box;">
+<style>
+  .internship-card {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    border-bottom: none !important;
+    padding: 0 !important;
+  }
+  .internship-card:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+  .internship-card .internship-image {
+    width: 100%;
+    max-width: 100% !important;
+    min-width: 100% !important;
+    height: 140px;
+    box-sizing: border-box;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fafafa;
+    border-bottom: 1px solid #eee;
+  }
+  .internship-card .internship-image img {
+    max-width: 220px !important;
+    max-height: 110px !important;
+    width: auto;
+    height: auto;
+    object-fit: contain !important;
+    display: block;
+    box-shadow: none !important;
+    border: none;
+  }
+  .internship-card .internship-text {
+    width: 100%;
+    max-width: 100% !important;
+    box-sizing: border-box;
+    padding: 12px 18px 14px !important;
+    line-height: 1.5;
+  }
+  .internship-card .internship-text a.title-link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 6px;
+  }
+  .internship-card .internship-text p {
+    margin: 0 0 6px;
+    color: #333;
+    font-size: 15px;
+  }
+  .internship-card .internship-text ul {
+    margin: 0;
+    padding-left: 20px;
+    color: #555;
+    font-size: 14px;
+    list-style: disc;
+  }
+  .internship-card .internship-text li {
+    margin-bottom: 4px;
+  }
+</style>
+
+<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 8px; box-sizing: border-box; border-radius: 8px;">
 
   <!-- 字节跳动 TikTok 卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/Tiktok.png' alt="ByteDance TikTok" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
-          <a href="https://www.tiktok.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">ByteDance - TikTok</a>
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · TikTok · Generative Recommendation</strong></p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Kai Feng</li>
-              <li>2025.01 - 2025.05</li>
-          </ul>
-      </div>
+  <div class="internship-card">
+    <div class="internship-image">
+      <img src='../images/Tiktok.png' alt="ByteDance TikTok">
+    </div>
+    <div class="internship-text">
+      <a class="title-link" href="https://www.tiktok.com/">ByteDance - TikTok</a>
+      <p><strong>Department · TikTok · Generative Recommendation</strong></p>
+      <ul>
+        <li>Advised by Mr. Kai Feng</li>
+        <li>2025.01 - 2025.05</li>
+      </ul>
+    </div>
   </div>
 
   <!-- 腾讯混元卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/hunyuan.png' alt="HunYuan" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
-          <a href="https://hunyuan.tencent.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">Tencent - HunYuan</a>
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · HY · Video Generation</strong></p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Yuan Zhou</li>
-              <li>2025.4 - 2025.10</li>
-          </ul>
-      </div>
+  <div class="internship-card">
+    <div class="internship-image">
+      <img src='../images/hunyuan.png' alt="HunYuan">
+    </div>
+    <div class="internship-text">
+      <a class="title-link" href="https://hunyuan.tencent.com/">Tencent - HunYuan</a>
+      <p><strong>Department · HY · Video Generation</strong></p>
+      <ul>
+        <li>Advised by Mr. Yuan Zhou</li>
+        <li>2025.4 - 2025.10</li>
+      </ul>
+    </div>
   </div>
 
   <!-- AGI-Bot卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/agi_bot.png' alt="AGI-Bot" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
-            <a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 8px;">AGI-Bot</a>
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · World Model/ Video Generation</strong></p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Liliang Chen</li>
-              <li>2024.12 - 2025.3</li>
-          </ul>
-      </div>
+  <div class="internship-card">
+    <div class="internship-image">
+      <img src='../images/agi_bot.png' alt="AGI-Bot">
+    </div>
+    <div class="internship-text">
+      <a class="title-link" href="https://www.zhiyuan-robot.com/">AGI-Bot</a>
+      <p><strong>Department · World Model/ Video Generation</strong></p>
+      <ul>
+        <li>Advised by Mr. Liliang Chen</li>
+        <li>2024.12 - 2025.3</li>
+      </ul>
+    </div>
   </div>
 
   <!-- 腾讯Robotics X卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/robotics_x.png' alt="Tencent Robotics X" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
-          <a href="https://roboticsx.tencent.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">Tencent - Robotics X</a>
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · Embodied AI · Perception and Action Collaboration Group</strong></p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Yu Zheng</li>
-              <li>2024.09 - 2024.12</li>
-          </ul>
-      </div>
+  <div class="internship-card">
+    <div class="internship-image">
+      <img src='../images/robotics_x.png' alt="Tencent Robotics X">
+    </div>
+    <div class="internship-text">
+      <a class="title-link" href="https://roboticsx.tencent.com/">Tencent - Robotics X</a>
+      <p><strong>Department · Embodied AI · Perception and Action Collaboration Group</strong></p>
+      <ul>
+        <li>Advised by Mr. Yu Zheng</li>
+        <li>2024.09 - 2024.12</li>
+      </ul>
+    </div>
   </div>
 </div>
 
