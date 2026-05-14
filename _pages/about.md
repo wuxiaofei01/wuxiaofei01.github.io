@@ -103,7 +103,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
       <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; box-sizing: border-box;">
           <div>
-              <img src='../images/ByteDance.png' alt="ByteDance TikTok" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
+              <img src='../images/Tiktok.png' alt="ByteDance TikTok" style="width: 100%; max-width: 100%; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
           </div>
       </div>
       <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
