@@ -111,7 +111,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · TikTok · Generative Recommendation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
               <li style="margin-bottom: 4px;">Advised by Mr. Kai Feng</li>
-              <li>2026.01 - 2025.06</li>
+              <li>2026.01 - 2026.06</li>
           </ul>
       </div>
   </div>
