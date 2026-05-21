@@ -97,52 +97,10 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
 
 # 💻 Internships
-<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 4px; box-sizing: border-box;">
-
-  <!-- 字节跳动 TikTok 卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><a href="https://www.tiktok.com/" style="text-decoration: none; color: #007bff; font-weight: 600;">ByteDance - TikTok</a> - Generative Recommendation</p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Kai Feng</li>
-              <li>2026.01 - 2026.06</li>
-          </ul>
-      </div>
-  </div>
-
-  <!-- 腾讯混元卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><a href="https://hunyuan.tencent.com/" style="text-decoration: none; color: #007bff; font-weight: 600;">Tencent - HunYuan</a> - Video Generation</p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Yuan Zhou</li>
-              <li>2025.4 - 2025.10</li>
-          </ul>
-      </div>
-  </div>
-
-  <!-- AGI-Bot卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff; font-weight: 600;">AGI-Bot</a> - World Model / Video Generation</p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Liliang Chen</li>
-              <li>2024.12 - 2025.3</li>
-          </ul>
-      </div>
-  </div>
-
-  <!-- 腾讯Robotics X卡片 -->
-  <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
-          <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><a href="https://roboticsx.tencent.com/" style="text-decoration: none; color: #007bff; font-weight: 600;">Tencent - Robotics X</a> - Embodied AI · Perception and Action Collaboration Group</p>
-          <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
-              <li style="margin-bottom: 4px;">Advised by Mr. Yu Zheng</li>
-              <li>2024.09 - 2024.12</li>
-          </ul>
-      </div>
-  </div>
-</div>
+- *2026.01 - 2026.06*, [ByteDance - TikTok](https://www.tiktok.com/), Generative Recommendation, advised by Mr. Kai Feng
+- *2025.04 - 2025.10*, [Tencent - HunYuan](https://hunyuan.tencent.com/), Video Generation, advised by Mr. Yuan Zhou
+- *2024.12 - 2025.03*, [AGI-Bot](https://www.zhiyuan-robot.com/), World Model / Video Generation, advised by Mr. Liliang Chen
+- *2024.09 - 2024.12*, [Tencent - Robotics X](https://roboticsx.tencent.com/), Embodied AI · Perception and Action Collaboration Group, advised by Mr. Yu Zheng
 
 
 
