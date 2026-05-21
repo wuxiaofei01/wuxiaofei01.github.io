@@ -101,12 +101,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 字节跳动 TikTok 卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/Tiktok.png' alt="ByteDance TikTok" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
+      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
           <a href="https://www.tiktok.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">ByteDance - TikTok</a>
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · TikTok · Generative Recommendation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
@@ -118,12 +113,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 腾讯混元卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/hunyuan.png' alt="HunYuan" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
+      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
           <a href="https://hunyuan.tencent.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">Tencent - HunYuan</a>
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · HY · Video Generation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
@@ -135,12 +125,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- AGI-Bot卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/agi_bot.png' alt="AGI-Bot" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
+      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
             <a href="https://www.zhiyuan-robot.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 8px;">AGI-Bot</a>
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · World Model/ Video Generation</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
@@ -152,12 +137,7 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, Xiaofei Wu , Jiamin Wang , Yichen Ya
 
   <!-- 腾讯Robotics X卡片 -->
   <div class='paper-box' style="background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); margin-bottom: 6px; overflow: hidden; transition: box-shadow 0.3s ease;">
-      <div class='paper-box-image' style="text-align: center; padding: 4px; width: 100%; height: 180px; box-sizing: border-box; display: flex; align-items: center; justify-content: center;">
-          <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
-              <img src='../images/robotics_x.png' alt="Tencent Robotics X" style="max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border: none;">
-          </div>
-      </div>
-      <div class='paper-box-text' style="padding: 0 6px 6px; box-sizing: border-box; line-height: 1.5;">
+      <div class='paper-box-text' style="padding: 12px 16px; box-sizing: border-box; line-height: 1.5;">
           <a href="https://roboticsx.tencent.com/" style="text-decoration: none; color: #007bff; font-size: 18px; font-weight: 600; display: inline-block; margin-bottom: 6px;">Tencent - Robotics X</a>
           <p style="margin: 0 0 6px; color: #333; font-size: 15px;"><strong>Department · Embodied AI · Perception and Action Collaboration Group</strong></p>
           <ul style="margin: 0; padding-left: 20px; color: #555; font-size: 14px; list-style: disc;">
