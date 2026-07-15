@@ -67,17 +67,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-I am a master's student at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab at the Visual & Data Intelligence (VDI) Center.
+I currently work  at [Meshy AI](https://www.meshy.ai/), where my research centers on state-of-the-art 3D generative AI technologies. Prior to this role, I completed my Master’s degree at at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab at the Visual & Data Intelligence (VDI) Center.
 
 My research interests include **Deep Learning**, **Generative Models**, and **Embodied AI**.
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
+- *2026.07* &nbsp;I join [Meshy AI](https://www.meshy.ai/).
 - *2026.02* &nbsp;One paper accepted by **CVPR 2026**
 - *2024.11* &nbsp;One paper accepted by the International Conference on 3D Vision (**3DV 2025**)
 - *2024.01* &nbsp;One paper accepted by the International Joint Conference on Artificial Intelligence (**IJCAI 2024**)
 
+# 💻 Internships
+- *2026.01 - 2026.06*, [**ByteDance &middot; TikTok**](https://www.tiktok.com/) &mdash; Generative Recommendation &middot; Advised by Mr. Kai Feng
+- *2025.04 - 2025.10*, [**Tencent &middot; Hunyuan**](https://hunyuan.tencent.com/) &mdash; Video Generation &middot; Advised by Mr. Yuan Zhou
+- *2024.12 - 2025.03*, [**AGI-Bot**](https://www.zhiyuan-robot.com/) &mdash; World Model / Video Generation &middot; Advised by Mr. Liliang Chen
+- *2024.09 - 2024.12*, [**Tencent &middot; Robotics X**](https://roboticsx.tencent.com/) &mdash; Embodied AI, Perception and Action Collaboration Group &middot; Advised by Mr. Yu Zheng
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/pfvg.png' alt="PFVG" width="100%"></div></div>
@@ -143,11 +149,6 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, **Xiaofei Wu**, Jiamin Wang, Yichen 
   - Supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html)
 - *2019.09 - 2023.07*, B.E. in Computer Science and Technology, **Northeastern University**, Shenyang, China
 
-# 💻 Internships
-- *2026.01 - 2026.06*, [**ByteDance &middot; TikTok**](https://www.tiktok.com/) &mdash; Generative Recommendation &middot; Advised by Mr. Kai Feng
-- *2025.04 - 2025.10*, [**Tencent &middot; Hunyuan**](https://hunyuan.tencent.com/) &mdash; Video Generation &middot; Advised by Mr. Yuan Zhou
-- *2024.12 - 2025.03*, [**AGI-Bot**](https://www.zhiyuan-robot.com/) &mdash; World Model / Video Generation &middot; Advised by Mr. Liliang Chen
-- *2024.09 - 2024.12*, [**Tencent &middot; Robotics X**](https://roboticsx.tencent.com/) &mdash; Embodied AI, Perception and Action Collaboration Group &middot; Advised by Mr. Yu Zheng
 
 
 
