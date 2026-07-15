@@ -67,7 +67,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-I currently work  at [Meshy AI](https://www.meshy.ai/), where my research centers on state-of-the-art 3D generative AI technologies. Prior to this role, I completed my Master’s degree at at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab at the Visual & Data Intelligence (VDI) Center.
+I currently work  at [Meshy AI](https://www.meshy.ai/), where my research centers on state-of-the-art 3D generative AI technologies. Prior to this role, I completed my Master’s degree at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html) in the Plus Lab at the Visual & Data Intelligence (VDI) Center.
 
 My research interests include **Deep Learning**, **Generative Models**, and **Embodied AI**.
 
