@@ -72,6 +72,14 @@ I currently work  at [Meshy AI](https://www.meshy.ai/), where my research center
 My research interests include **Deep Learning**, **Generative Models**, and **Embodied AI**.
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
+# 📑Academic Service
+I have served as a reviewer for the following journals and conferences:
+
+
+- IEEE Transactions on Image Processing(TIP)
+
+- the Association for the Advancement of Artificial Intelligence (AAAI)
+
 
 # 🔥 News
 - *2026.07* &nbsp;I join [Meshy AI](https://www.meshy.ai/).
