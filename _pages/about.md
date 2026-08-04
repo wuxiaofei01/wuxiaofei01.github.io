@@ -72,13 +72,7 @@ I currently work  at [Meshy AI](https://www.meshy.ai/), where my research center
 My research interests include **Deep Learning**, **Generative Models**, and **Embodied AI**.
 
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
-# 📑Academic Service
-I have served as a reviewer for the following journals and conferences:
 
-
-- IEEE Transactions on Image Processing(TIP)
-
-- the Association for the Advancement of Artificial Intelligence (AAAI)
 
 
 # 🔥 News
@@ -157,6 +151,12 @@ Yumeng Liu\*, Yaxun Yang\*, Youzhuo Wang\*, **Xiaofei Wu**, Jiamin Wang, Yichen 
   - Supervised by [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html)
 - *2019.09 - 2023.07*, B.E. in Computer Science and Technology, **Northeastern University**, Shenyang, China
 
+# 📑Academic Service
+I have served as a reviewer for the following journals and conferences:
 
+
+- IEEE Transactions on Image Processing(TIP)
+
+- the Association for the Advancement of Artificial Intelligence (AAAI)
 
 
