@@ -99,7 +99,7 @@ Jiale Xu* ,  Rendong Liang* ,  Yuhao Long,   Siyuan Shen,   Zangyueyang Xian,   
 [**Project**](https://github.com/meshy-dev/meshy-t2)
 
 </div>
-
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/pfvg.png' alt="PFVG" width="100%"></div></div>
