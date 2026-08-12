@@ -88,6 +88,20 @@ My research interests include **Deep Learning**, **Generative Models**, and **Em
 - *2024.09 - 2024.12*, [**Tencent &middot; Robotics X**](https://roboticsx.tencent.com/) &mdash; Embodied AI, Perception and Action Collaboration Group &middot; Advised by Mr. Yu Zheng
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/meshT2.png' alt="PFVG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675)
+
+Jiale Xu* ,  Rendong Liang* ,  Yuhao Long,   Siyuan Shen,   Zangyueyang Xian,   Xiaofei Wu ,  Zeyi Xu ,  Yuanming Hu
+
+[**Project**](https://github.com/meshy-dev/meshy-t2)
+
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='../images/pfvg.png' alt="PFVG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
