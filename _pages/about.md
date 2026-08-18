@@ -76,6 +76,7 @@ My research interests include **Deep Learning**, **Generative Models**, and **Em
 
 
 # 🔥 News
+- *2026.08* &nbsp;[Meshy T2](https://arxiv.org/abs/2607.28675) published.
 - *2026.07* &nbsp;I join [Meshy AI](https://www.meshy.ai/).
 - *2026.02* &nbsp;One paper accepted by **CVPR 2026**
 - *2024.11* &nbsp;One paper accepted by the International Conference on 3D Vision (**3DV 2025**)
