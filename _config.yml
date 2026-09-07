@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Xiaofei Wu"
-description              : "Best"
+description              : "Researcher in generative AI, 3D vision, and embodied intelligence."
+url                      : "https://wuxiaofei01.github.io"
 repository               : "wuxiaofei01/wuxiaofei01.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaofei Wu"
   avatar           : "images/profile.png"
-  bio              : "ShangHaiTech University"
-  location         : "ShangHai, China"
+  bio              : "3D Generative AI @ Meshy AI"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=TNf2XK8AAAAJ&hl=zh-CN"
