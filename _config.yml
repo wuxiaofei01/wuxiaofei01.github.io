@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaofei Wu"
-description              : "Researcher in generative AI, 3D vision, and embodied intelligence."
+description              : "World model researcher working on video and 3D."
 url                      : "https://wuxiaofei01.github.io"
 repository               : "wuxiaofei01/wuxiaofei01.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaofei Wu"
   avatar           : "images/profile.png"
-  bio              : "3D Generative AI @ Meshy AI"
+  bio              : "World Model Researcher · Video & 3D"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

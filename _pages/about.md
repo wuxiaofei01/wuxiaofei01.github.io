@@ -18,21 +18,10 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <section class="home-hero">
-  <div class="home-hero__glow home-hero__glow--one" aria-hidden="true"></div>
-  <div class="home-hero__glow home-hero__glow--two" aria-hidden="true"></div>
   <div class="home-hero__content">
-    <p class="home-hero__eyebrow"><span></span> Researcher · 3D Generative AI</p>
-    <h1>Building intelligent systems that <em>create, perceive, and interact.</em></h1>
-    <p class="home-hero__intro">I currently work at <a href="https://www.meshy.ai/">Meshy AI</a>, where my research centers on state-of-the-art 3D generative AI technologies. Previously, I completed my Master’s degree at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, advised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a> in the Plus Lab at the Visual &amp; Data Intelligence Center.</p>
-    <div class="research-tags" aria-label="Research interests">
-      <span>Deep Learning</span>
-      <span>Generative Models</span>
-      <span>Embodied AI</span>
-    </div>
-    <div class="home-hero__actions">
-      <a class="hero-button hero-button--primary" href="#publications" target="_self">Explore my work <span aria-hidden="true">&darr;</span></a>
-      <a class="hero-button hero-button--secondary" href="/assets/resume.pdf">View résumé <span aria-hidden="true">&#8599;</span></a>
-    </div>
+    <p class="home-hero__eyebrow">World Model Researcher · Video &amp; 3D</p>
+    <h1>Hi, I’m Xiaofei Wu.</h1>
+    <p class="home-hero__intro">I currently work at <a href="https://www.meshy.ai/">Meshy AI</a>, where my research focuses on world models for video and 3D. Previously, I completed my Master’s degree at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, advised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a> in the Plus Lab at the Visual &amp; Data Intelligence Center.</p>
   </div>
 </section>
 
@@ -143,10 +132,10 @@ redirect_from:
 
 # 📖 Education
 
-<div class="education-grid">
-  <article><span>2023 — 2026</span><h3>ShanghaiTech University</h3><p>M.S. in Computer Science · Visual &amp; Data Intelligence Center</p><small>Supervised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a></small></article>
-  <article><span>2019 — 2023</span><h3>Northeastern University</h3><p>B.E. in Computer Science and Technology</p><small>Shenyang, China</small></article>
-</div>
+<ul class="education-list">
+  <li><time>2023 — 2026</time><span><strong>ShanghaiTech University</strong> · M.S. in Computer Science, supervised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a></span></li>
+  <li><time>2019 — 2023</time><span><strong>Northeastern University</strong> · B.E. in Computer Science and Technology</span></li>
+</ul>
 
 <span class="anchor" id="service"></span>
 
