@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -17,36 +17,51 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-<section class="home-hero">
-  <div class="home-hero__content">
-    <p class="home-hero__eyebrow">World Model Researcher · Video &amp; 3D</p>
-    <h1>Hi, I’m Xiaofei Wu.</h1>
-    <p class="home-hero__intro">I currently work at <a href="https://www.meshy.ai/">Meshy AI</a>, where my research focuses on world models for video and 3D. Previously, I completed my Master’s degree at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, advised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a> in the Plus Lab at the Visual &amp; Data Intelligence Center.</p>
+<section class="home-combined">
+  <div class="home-combined__layout">
+    <aside class="home-combined__profile">
+      <img class="home-combined__avatar" src="/images/profile.png" alt="Xiaofei Wu">
+      <div class="home-combined__identity">
+        <h1>Xiaofei Wu</h1>
+        <p class="home-combined__affiliation"><a href="https://www.meshy.ai/">Meshy AI</a></p>
+        <p class="home-combined__focus">World Model Researcher · Video &amp; 3D</p>
+        <nav class="home-combined__links" aria-label="Profile links">
+          <a href="mailto:{{ site.author.email }}">Email</a>
+          <a href="{{ site.author.googlescholar }}">Scholar</a>
+          <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+        </nav>
+      </div>
+    </aside>
+
+    <div class="home-combined__main">
+      <p class="home-combined__eyebrow">About Me</p>
+      <p class="home-combined__intro">I am a researcher at <a href="https://www.meshy.ai/">Meshy AI</a>, focusing on world models for video and 3D. Previously, I completed my Master’s degree at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a>, advised by <a href="https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/index.html">Prof. Xuming He</a> in the Plus Lab at the Visual &amp; Data Intelligence Center.</p>
+
+      <span class="anchor" id="news"></span>
+      <div class="home-combined__news">
+        <h2>🔥 News</h2>
+        <ul class="news-list">
+          <li class="news-list__featured"><time datetime="2026-09">2026.09</time><span><strong>New launch</strong> — <a href="https://mora.fun/">Mora · AI for Fun</a> is now live.</span></li>
+          <li><time datetime="2026-08">2026.08</time><span><a href="https://arxiv.org/abs/2607.28675">Meshy T2</a> published.</span></li>
+          <li><time datetime="2026-07">2026.07</time><span>Joined <a href="https://www.meshy.ai/">Meshy AI</a>.</span></li>
+          <li><time datetime="2026-02">2026.02</time><span>One paper accepted by <strong>CVPR 2026</strong>.</span></li>
+          <li><time datetime="2024-11">2024.11</time><span>One paper accepted by the International Conference on 3D Vision (<strong>3DV 2025</strong>).</span></li>
+          <li><time datetime="2024-01">2024.01</time><span>One paper accepted by the International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>).</span></li>
+        </ul>
+      </div>
+    </div>
   </div>
 </section>
 
-<span class="anchor" id="news"></span>
-
-# 🔥 News
-
-<ul class="news-list">
-  <li class="news-list__featured"><time datetime="2026-09">2026.09</time><span><strong>New launch</strong> — <a href="https://mora.fun/">Mora · AI for Fun</a> is now live.</span></li>
-  <li><time datetime="2026-08">2026.08</time><span><a href="https://arxiv.org/abs/2607.28675">Meshy T2</a> published.</span></li>
-  <li><time datetime="2026-07">2026.07</time><span>Joined <a href="https://www.meshy.ai/">Meshy AI</a>.</span></li>
-  <li><time datetime="2026-02">2026.02</time><span>One paper accepted by <strong>CVPR 2026</strong>.</span></li>
-  <li><time datetime="2024-11">2024.11</time><span>One paper accepted by the International Conference on 3D Vision (<strong>3DV 2025</strong>).</span></li>
-  <li><time datetime="2024-01">2024.01</time><span>One paper accepted by the International Joint Conference on Artificial Intelligence (<strong>IJCAI 2024</strong>).</span></li>
-</ul>
-
 <span class="anchor" id="internships"></span>
 
-# 💻 Internships
+# 💻 Work Experience
 
 <div class="timeline-list">
-  <div class="timeline-item"><span class="timeline-item__date">2026.01 — 2026.06</span><div><a href="https://www.tiktok.com/"><strong>ByteDance · TikTok</strong></a><p>Generative Recommendation · Advised by Mr. Kai Feng</p></div></div>
-  <div class="timeline-item"><span class="timeline-item__date">2025.04 — 2025.10</span><div><a href="https://hunyuan.tencent.com/"><strong>Tencent · Hunyuan</strong></a><p>Video Generation · Advised by Mr. Yuan Zhou</p></div></div>
-  <div class="timeline-item"><span class="timeline-item__date">2024.12 — 2025.03</span><div><a href="https://www.zhiyuan-robot.com/"><strong>AGI-Bot</strong></a><p>World Model / Video Generation · Advised by Mr. Liliang Chen</p></div></div>
-  <div class="timeline-item"><span class="timeline-item__date">2024.09 — 2024.12</span><div><a href="https://roboticsx.tencent.com/"><strong>Tencent · Robotics X</strong></a><p>Embodied AI, Perception and Action Collaboration Group · Advised by Mr. Yu Zheng</p></div></div>
+  <div class="timeline-item"><span class="timeline-item__date">2026.01 — 2026.06</span><div><a href="https://www.tiktok.com/"><strong>ByteDance · TikTok</strong></a><p>Generative Recommendation · Advised by Mr. Kai Feng · Intern</p></div></div>
+  <div class="timeline-item"><span class="timeline-item__date">2025.04 — 2025.10</span><div><a href="https://hunyuan.tencent.com/"><strong>Tencent · Hunyuan</strong></a><p>Video Generation · Advised by Mr. Yuan Zhou · Intern</p></div></div>
+  <div class="timeline-item"><span class="timeline-item__date">2024.12 — 2025.03</span><div><a href="https://www.zhiyuan-robot.com/"><strong>AGI-Bot</strong></a><p>World Model / Video Generation · Advised by Mr. Liliang Chen · Intern</p></div></div>
+  <div class="timeline-item"><span class="timeline-item__date">2024.09 — 2024.12</span><div><a href="https://roboticsx.tencent.com/"><strong>Tencent · Robotics X</strong></a><p>Embodied AI, Perception and Action Collaboration Group · Advised by Mr. Yu Zheng · Intern</p></div></div>
 </div>
 
 <span class="anchor" id="publications"></span>
