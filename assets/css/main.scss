@@ -401,10 +401,9 @@ body {
   img {
     display: block;
     width: 100%;
-    height: 148px;
+    height: auto;
     border-radius: 12px;
     box-shadow: none;
-    object-fit: cover;
     transition: transform 0.25s ease;
   }
 }
@@ -698,7 +697,10 @@ body {
     padding: 0.8rem;
   }
 
-  .paper-box-image img,
+  .paper-box-image img {
+    height: auto;
+  }
+
   .mora-visual {
     height: 180px;
   }
