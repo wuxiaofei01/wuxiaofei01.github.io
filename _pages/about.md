@@ -58,6 +58,7 @@ redirect_from:
 # 💻 Work Experience
 
 <div class="timeline-list">
+  <div class="timeline-item"><span class="timeline-item__date">2026.07 — Present</span><div><a href="https://www.meshy.ai/"><strong>Meshy AI</strong></a><p>World Models for Video and 3D · Researcher</p></div></div>
   <div class="timeline-item"><span class="timeline-item__date">2026.01 — 2026.06</span><div><a href="https://www.tiktok.com/"><strong>ByteDance · TikTok</strong></a><p>Generative Recommendation · Advised by Mr. Kai Feng · Intern</p></div></div>
   <div class="timeline-item"><span class="timeline-item__date">2025.04 — 2025.10</span><div><a href="https://hunyuan.tencent.com/"><strong>Tencent · Hunyuan</strong></a><p>Video Generation · Advised by Mr. Yuan Zhou · Intern</p></div></div>
   <div class="timeline-item"><span class="timeline-item__date">2024.12 — 2025.03</span><div><a href="https://www.zhiyuan-robot.com/"><strong>AGI-Bot</strong></a><p>World Model / Video Generation · Advised by Mr. Liliang Chen · Intern</p></div></div>
