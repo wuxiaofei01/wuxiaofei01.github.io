@@ -131,6 +131,7 @@ redirect_from:
   </div>
 </div>
 
+<!-- Honors and Awards section hidden
 <span class="anchor" id="honors"></span>
 
 # 🎖 Honors and Awards
@@ -143,6 +144,7 @@ redirect_from:
   <li><time>2020.09</time><span>First Class Scholarship, Northeastern University <strong>· Top 10%</strong></span></li>
   <li><time>2020.03</time><span>Outstanding Student, Northeastern University <strong>· Top 10%</strong></span></li>
 </ul>
+-->
 
 <span class="anchor" id="education"></span>
 
