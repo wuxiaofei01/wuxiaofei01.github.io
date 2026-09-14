@@ -82,6 +82,7 @@ redirect_from:
     <p class="paper-kicker">Featured project · Launched September 2026</p>
     <h3><a href="https://mora.fun/">Mora · AI for Fun</a></h3>
     <p>A playful AI experience built around one simple idea: AI should be fun.</p>
+    <p class="paper-role"><strong>My role:</strong> Led few-step distillation and real-time inference &mdash; sub-200ms style switching, ~300ms end-to-end with network.</p>
     <p class="paper-links"><a href="https://mora.fun/"><span aria-hidden="true">&#9672;</span> Project Website</a><span class="paper-url">mora.fun</span></p>
   </div>
 </div>

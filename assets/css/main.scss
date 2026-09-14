@@ -446,6 +446,15 @@ body {
   text-transform: uppercase;
 }
 
+.paper-role {
+  color: #4a5670 !important;
+
+  strong {
+    color: #2f3b55;
+    font-weight: 750;
+  }
+}
+
 .paper-links {
   display: flex;
   flex-wrap: wrap;
